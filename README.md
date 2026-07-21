@@ -4,7 +4,7 @@ Mechanical engineering student with experience in mechanical design, manufacturi
 
 ## 🔭 I’m Currently Working On
 
-- Developing a component refurbishment **SOP** projected to save approximately **$240,000** per cycle as part of my **Mechanical Design Internship** in **Corning Inc**.
+- Developing a component refurbishment **SOP** projected to save approximately **$240,000** per operating cycle as part of my **Mechanical Design Internship** in **Corning Inc**.
 - Performing statistical uncertainty analysis and using Excel Solver to **optimize** component placement, maximize reuse, and minimize performance variation.
 - Creating a repeatable test-bench design and manufacturing drawing package in SOLIDWORKS, applying **GD&T** and **ASME standards**.
 - Researching automotive airfoils and aerodynamic performance to design a front aerodynamic wing for **BOLT's electric superbike**.
